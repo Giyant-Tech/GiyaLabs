@@ -1,0 +1,3 @@
+[submodule "c_digital_clock"]
+	path = c_digital_clock
+	url = https://github.com/Giyant-Tech/c_digital_clock.git
